@@ -16,13 +16,12 @@ function Footer() {
         <footer className='footer'>
             <div className="footerContainer">
                 <div className="rows links">
-                    <FooterLinks 
-                        title={links[0].title} 
-                        link1={links[0].Link1} linkPath1="/"
-                        link2={links[0].Link2} linkPath2="/"
-                        link3={links[0].Link3} linkPath3="/"
-                        link4={links[0].Link4} linkPath4="/"
-                    />
+                
+                    <div className="footerLinks">
+                        <h2>Connect</h2>
+                        <h2>with Me</h2>
+                        <a href="https://www.linkedin.com/in/richard-castro-3826ab343/" target="blank">Linkedin</a>
+                    </div>
                 </div>
                 <div>
                     <h1 style={{color:'white'}}>Richard Castro</h1>

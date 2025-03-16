@@ -10,7 +10,7 @@ import Onboarding from "../../../assets/images/finance/Onboarding-2.png"
 import FinanceImage from "../../../assets/images/finance/finance_image.png"
 import ViewImage1 from "../../../assets/images/finance/transaction-animation-final.gif"
 import ViewImage2 from "../../../assets/images/finance/Expenses-Merchant.png"
-import CategoriesImage from "../../../assets/images/finance/category.png"
+import CategoriesImage from "../../../assets/images/finance/Category.png"
 
 
 function Erotic() {

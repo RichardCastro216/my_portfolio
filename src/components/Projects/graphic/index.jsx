@@ -64,7 +64,7 @@ function Erotic() {
       <br></br>
       <div style={{paddingLeft:'10%', paddingRight:'10%'}}>
         <div>
-          <h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Sutherland Welles</h1>
+          <a href="https://www.sutherlandwelles.com/" target='blank'><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Sutherland Welles</h1></a>
           <br></br>
           <div style={{display:'flex', gap:'30px',flexDirection:'column'}}>
             <div style={{width:'100%',display:'flex',gap:'40px'}}>
@@ -88,7 +88,7 @@ function Erotic() {
         <br></br>
         <br></br>
         <div>
-          <h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Wise Rose Beauty</h1>
+          <a href = "https://wiserosebeauty.com/" target="blank"><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Wise Rose Beauty</h1></a>
           <br></br>
           <div style={{display:'flex', gap:'30px'}}>
             <div style={{width:'35%'}}>
@@ -103,7 +103,7 @@ function Erotic() {
           </div>
         </div>
         <div>
-          <h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Mediaplanet</h1>
+          <a href="https://mediaplanet.com/us/" target="blank"><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Mediaplanet</h1></a>
           <br></br>
           <div style={{display:'flex', gap:'30px'}}>
             <div style={{width:'22%'}}>
@@ -134,7 +134,7 @@ function Erotic() {
         <br></br>
         <br></br>
         <div>
-          <h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Lindsay Landman Events</h1>
+          <a target="blank" href="http://www.lindsaylandmanevents.com/"><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Lindsay Landman Events</h1></a>
           <br></br>
           <div >
             <img src={Lindsay1} style={{width:'100%'}} />
@@ -150,7 +150,7 @@ function Erotic() {
         <br></br>
         <br></br>
         <div>
-          <h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Tailoring a Branding Solution for Norman & Norman Consulting</h1>
+          <a target='blank' href="http://normanestatelaw.com/"><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Tailoring a Branding Solution for Norman & Norman Consulting</h1></a>
           <br></br>
           <div style={{display:'flex',gap:'10px'}}>
             <img src={Logo1} style={{width:'20%'}} />

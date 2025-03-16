@@ -88,11 +88,8 @@ const experienceContent = [
 
 const links= [
     {
-        title: "Social",
-        Link1: "Facebook",
-        Link2: "Instagram",
-        Link3: "Linkedin",
-        Link4: "Twitch",
+        title: "My Profile",
+        Link1: "Linkedin",
     },
     {
         title: "Site",
