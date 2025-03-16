@@ -1,0 +1,32 @@
+.project_topic{
+  width:100%;
+  text-align: center;
+  padding:80px;
+  background-color: #4078eb;
+  font-family:Georgia, 'Times New Roman', Times, serif!important;
+}
+.project-overview{
+  display: flex;
+  gap:70px;
+  width:'100%';
+  padding:30px;
+}
+.quick_link{
+  width:100%;
+  text-align: center;
+  padding:80px;
+  background-color: #232323;
+  color:white;
+}
+.Empathize{
+  width:100%;
+  text-align: center;
+  padding:80px;
+  background-color: #f1eedb;
+}
+.competitive_analysis{
+  width:100%;
+  display: flex;
+  padding:30px;
+  gap:40px;
+}

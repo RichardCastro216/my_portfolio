@@ -1,0 +1,49 @@
+
+
+:root {
+    --half-pearl-lusta-bg-txt: #f1e9d7;
+    --pastel-orange-txt: #d4a665;
+    --black-orange-bg: #212121;
+    --black-btn: #000000;
+    --dark-text: #212121;
+}
+
+
+.portfolio {
+    width: 100%;
+    padding-bottom: 5rem;
+    background-color: var(--black-orange-bg);
+}
+
+.portfolio .portfolioNavbar {
+    color: white;
+    /* background-color: #d4a665; */
+    padding: 1.2rem;
+    padding-right: 2rem;
+}
+
+.portfolioHeading {
+    position: sticky;
+    top: 25%;
+    margin-top: 30vh;
+    margin-bottom: 35vh;
+    /* background-color: #f1e9d7; */
+}
+
+.portfolioHeading h2 {
+    color: white;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 1.7rem;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+/* Cards starts here */
+.portfolioProjects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+}

@@ -1,0 +1,41 @@
+.flower {
+    height: 9rem;
+    width: 8rem;
+    display: block;
+}
+
+.mythSvg {
+    height: 3.5rem;
+    width: 8rem;
+    /* background: blue; */
+}
+
+.celciusSvg {
+    height: 4.8rem;
+    width: 4rem;
+    /* background: blue; */
+}
+
+.harcourtsSvg {
+    height: 2.5rem;
+    width: 6rem;
+    /* background: blue; */
+}
+
+.justliveSvg {
+    height: 4.5rem;
+    width: 4.5rem;
+    /* background: blue; */
+}
+
+.betterbuzzSvg {
+    height: 2.2rem;
+    width: 8.5rem;
+    /* background: blue; */
+}
+
+.lyftSvg {
+    height: 4rem;
+    width: 4.5rem;
+    /* background: blue; */
+}

@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Nagbuloe';
+    src: url(../../assets/fonts/nagbuloe_bold.woff);
+    font-weight: bold;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Nagbuloe';
+    src: url(../../assets/fonts/nagbuloe_outline_bold.woff);
+    font-weight: bolder;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Nagbuloe';
+    src: url(../../assets/fonts/nagbuloe_regular.woff);
+    font-weight: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Nagbuloe';
+    src: url(../../assets/fonts/nagbuloe_thin.woff);
+    font-weight: 400;
+    font-display: swap;
+  }
+  
+:root {
+  --half-pearl-lusta-bg-txt: #f1e9d7;
+  --pastel-orange-txt: #d4a665;
+  --black-orange-bg: #212121;
+  --black-btn: #000000;
+  --dark-text: #212121;
+}
+  
+
+.menu-icon {
+    /* background-color: aqua; */
+    display: inline-block;
+    cursor: pointer;
+}
+
+/* nav { */
+    /* background-color: antiquewhite; */
+    /* position: relative;
+} */
+
+nav ul {
+    /* margin: 1.5rem; */
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+nav ul li h2 {
+    font-family: 'Nagbuloe';
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #333;
+}
+
+.menuContainer {
+  display: none;
+}

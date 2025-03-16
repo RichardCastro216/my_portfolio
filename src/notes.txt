@@ -1,0 +1,163 @@
+Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+USING DOWNLOADED FONT 
+//////
+Nagbuloe
+
+
+
+Nick Timmothy
+
+To use icons install REACT icons
+/////////////////////
+npm install react-icons --save
+
+HAMMBURGER Menu
+>>>>>>>>>>>>>>>>>>>
+import { SlMenu } from "react-icons/sl";
+
+
+BANNER
+>>>>>>>>
+FREELANCE GRAPHIC DESIGNER
+
+SCROLL ? side line with vertical top text
+///////////
+
+
+head text
+///////
+I help brands stand out and communicate better through thoughtful & strategic design.
+
+
+
+Projects
+///////////
+RECENT Projects
+
+case studies (will be displayed on left and right vertically straight text)
+c
+a
+s
+e
+like so............
+
+
+project 1
+>>>>>>>
+LYFT SELF-DRIVING
+
+Your self-driving
+ride has arrived
+<BUTTON>
+VIEW PROJECT
+
+project 2
+>>>>>>>
+HARCOURTS Auctions
+
+Rethink Real Estate
+<BUTTON>
+VIEW PROJECT
+
+project 3
+>>>>>>>
+CELSIUS ENERGY DRINK
+A fitness drink
+proven to function
+<BUTTON>
+VIEW PROJECT
+
+
+Btn end => View all projects
+
+
+services
+///////
+
+SERVICES
+>>>>>>>>>
+
+service 1
+========
+BRANDING
+
+It’s more than just a logo, it’s the visual identity for your brand that people first interact with before they decide if they want to learn more or not. My focus is always on telling your story through the logo, typography, colors, and other supporting elements so that you stand out amongst your competitors. 
+
+service 2
+========
+WEB DESIGN
+
+In an ever-changing digital landscape where online shopping has eclipsed brick & mortar, your web presence means everything. It’s not just a website, it’s an experience for consumers to learn about your brand & your services or products. My focus is on designing that unique web experience while using the best UI/UX practices for both desktop & mobile devices.
+
+service 3
+========
+SOCIAL
+
+Your brand is in the eyes of your consumers everyday through social media. It’s extremely important to use those platforms to continue to tell your story and sell your services in a visually pleasing way that catches their attention. My focus is to design content that communicates to your consumers better and builds brand awareness.
+
+
+CALL TO ACTION / Experience
+/////////
+PAST & PRESENT CLIENTS
+
+brands ive worked with  (uppercase main heading)
+
+Every client brings a new problem and together we find the solution. Deep strategic thought, hundreds of hours, countless conversations, and a lot of hard work went into these projects and that’s why they are successful.
+
+btn => LETS WORK TOGETHER
+
+
+
+footer LINKs
+////////////
+Heading => SOCIAL
+
+INSTAGRAM
+FACEBOOK
+LINKEDIN
+
+Heading => SITE
+
+HOME
+PROJECTS
+CONTACT
+
+
+About page
+>>>>>>>>>>>>>>>
+BEHIND THE DESIGNER
+
+introduction ;;;;;;
+My name is
+nick martinez
+
+My name is Nick I was born and raised San Diego, California. I attended San Diego State University where I found my passion for branding and website design. In 2013, I graduated from SDSU with a degree in Graphic Design and have been helping people bring their visions to life ever since. I truly love what I do for a living and that keeps me driven to sharpen my skills and become a better designer everyday. My goal is to always bring same drive and energy into every project I work on, no matter how big or how small.
+
+
+When I’m not designing, I’m either surfing, camping, having a good time with friends & family, or just chillen with my lady and our dog. These are the things that make me happy.
+
+
+
+motivation section
+My philosophy
+
+ “Don’t ever, for any reason, do anything to anyone for any reason ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you’ve been… ever, for any reason whatsoever…”
+
+Michael scott
+
+
+Portfolio section
+
+Heading
+//////////
+Deep strategic thought,
+hundreds of hours, countless conversations, and a lot of hard work went into these projects.
+
+
+Contacts
+////////
+CONTACT ME
+Let's talk about your dream project
+
+Don't hesitate to contact me because it's free to chat and talk about your ideas. I'm always open for freelance work and can give you an accurate quote and timeline based off the scope of work you're looking to get designed. 

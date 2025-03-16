@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/nagbuloe_bold.woff);
+  font-weight: bold;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/nagbuloe_outline_bold.woff);
+  font-weight: bold;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/nagbuloe_regular.woff);
+  font-weight: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/nagbuloe_thin.woff);
+  font-weight: 400;
+  font-display: swap;
+}
+
+
+:root {
+  --half-pearl-lusta-bg-txt: #f1e9d7;
+  --pastel-orange-txt: #d4a665;
+  --black-orange-bg: #212121;
+  --black-btn: #000000;
+  --dark-text: #212121;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: 'Nagbuloe', sans-serif;
+}
+
+body, 
+html {
+  font-size: 20px;
+  /* overflow-x: hidden; */  /* It doesn't let the use sticky property */
+}
+
+a{
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+

@@ -1,0 +1,45 @@
+
+:root {
+    --half-pearl-lusta-bg-txt: #f1e9d7;
+    --pastel-orange-txt: #d4a665;
+    --black-orange-bg: #212121;
+    --black-btn: #000000;
+    --dark-text: #212121;
+  }
+
+
+.aboutPhilosophy {
+    background-image: url(../../assets/images/about-inspiration.avif);
+    height: 130vh;
+    width: 100%;
+}
+
+.philosophyMain {
+    color: var(--half-pearl-lusta-bg-txt);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem;
+    height: inherit;
+    padding: 0 8rem;
+    text-transform: uppercase;
+}
+
+.philosophyMain  h2 {
+    font-weight: 500;
+    font-size: 3.8rem;
+    letter-spacing: 0.5px;
+}
+
+.philosophyMain  h5 {
+    font-weight: 300;
+    font-size: 1.8rem;
+}
+
+.philosophyMain p {
+    font-size: 1.5rem;
+    line-height: 1.6;
+    color: var(--pastel-orange-txt);
+}

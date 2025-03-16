@@ -1,0 +1,54 @@
+:root {
+    --half-pearl-lusta-bg-txt: #f1e9d7;
+    --pastel-orange-txt: #d4a665;
+    --black-orange-bg: #212121;
+    --black-btn: #000000;
+    --dark-text: #212121;
+}
+
+.service {
+    height: 120vh;
+    width: 100%;
+    background-image: url(../../assets/images/services.avif);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    padding: 4rem;
+}
+
+.serviceHead {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 0 5rem;
+}
+
+.serviceHead h2 {
+    text-transform: uppercase;
+    font-size: 5.3rem;
+    color: var(--half-pearl-lusta-bg-txt);
+}
+
+.serviceWrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-align: center;
+    gap: 6rem;
+    color: var(--half-pearl-lusta-bg-txt);
+    padding: 5rem 0;
+}
+
+.serviceCard h5 {
+    font-size: 1.8rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 0.7rem;
+}
+
+.serviceCard p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.3;
+}
+

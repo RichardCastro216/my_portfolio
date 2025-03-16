@@ -1,0 +1,124 @@
+:root {
+    --half-pearl-lusta-bg-txt: #f1e9d7;
+    --pastel-orange-txt: #d4a665;
+    --black-orange-bg: #212121;
+    --black-btn: #000000;
+    --dark-text: #212121;
+}
+
+.experienceMain {
+    width: 100%;
+    background-color: var(--half-pearl-lusta-bg-txt);
+}
+
+.experience {
+    height: 200vh;
+    padding: 3rem;
+    display: flex;
+    align-items: flex-start;
+    /* justify-content: space-between; */
+    gap: 3rem;
+    width: 100%;
+    padding-top: 7rem;
+}
+
+.experienceLeft {
+    width: 50%;    
+    position: sticky;
+    top: 20%;
+    margin-bottom: 8rem;
+    /* background-color: pink; */
+}
+
+.experienceContent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 6vh;
+    /* background-color: #212121; */
+}
+
+.experienceContent h5 {    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.experienceContent h2 {
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 1;
+    font-size: 3.5rem;
+    color: var(--pastel-orange-txt);
+}
+
+.experienceContent p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    width: 80%;
+    letter-spacing: 0.1px;
+    margin-bottom: 8vh;
+}
+
+.experienceBtn a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--black-btn);
+    transition: 0.3s;
+    padding: 0.8rem 3rem;
+    border-radius: 25px;
+    border: 2px solid var(--black-btn);
+    transition-property: background-color, color, border;
+    transition: 0.3s ease-in-out;
+}
+
+.experienceBtn a:hover {
+    background-color: var(--black-btn);
+    color: white;
+    border: 2px solid transparent;
+}
+
+
+.experienceRight {
+    width: 50%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 8rem;
+    column-gap: 3rem;
+    grid-template-rows: repeat(2, 1fr);
+    justify-items: center;
+    /* background-color: aquamarine; */
+}
+
+.lyft {
+    position: sticky;
+    top: 20%;
+    background-color: #d4a665;
+}
+
+/* 
+.betterBuzz {
+    background-color: #d4a665;
+}
+
+.justLive {
+    background-color: #d4a665;
+}
+
+.harcourts {
+    background-color: #d4a665;
+}
+
+.celcius {
+    background-color: #d4a665;
+}
+
+.myth {
+    background-color: #d4a665;
+} */

@@ -1,0 +1,54 @@
+
+:root {
+    --half-pearl-lusta-bg-txt: #f1e9d7;
+    --pastel-orange-txt: #d4a665;
+    --black-orange-bg: #212121;
+    --black-btn: #000000;
+    --dark-text: #212121;
+}
+
+
+.contactHead {
+    background-image: url(../../assets/images/contacthead-1.avif);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.contactNavbar {
+    color: var(--half-pearl-lusta-bg-txt);
+    padding: 1.2rem;
+    padding-right: 2rem;
+}
+
+.contactHeadContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    /* background-color: #f1e9d7; */
+    height: calc(60vh - 2.4rem);
+}
+
+.contactHeadContent p {
+    color: var(--half-pearl-lusta-bg-txt);
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+
+.contactHeadContent h2 {
+    margin-top: 1.2rem;
+    color: var(--half-pearl-lusta-bg-txt);
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 3.6rem;
+    line-height: 1.1;
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+}
+
+.contactHeadContent h2:hover {
+    color: var(--pastel-orange-txt);
+}

@@ -1,0 +1,61 @@
+
+:root {
+    --half-pearl-lusta-bg-txt: #f1e9d7;
+    --pastel-orange-txt: #d4a665;
+    --black-orange-bg: #212121;
+    --black-btn: #000000;
+    --dark-text: #212121;
+  }
+
+.portfolioAction {
+    background-image: url(../../assets/images/contact-action.avif);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.portfolioActionMain {
+    text-align: center;
+}
+
+.portfolioActionMain p {
+    color: var(--half-pearl-lusta-bg-txt);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.portfolioActionMain h2 {
+    color: var(--pastel-orange-txt);
+    font-weight: 600;
+    font-size: 3.8rem;
+    letter-spacing: 2px;
+    line-height: 1.1;
+    margin-top: 1.7rem;
+    margin-bottom: 3rem;
+}
+
+.portfolioActionMain a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.7rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+    padding: 0.7rem 4rem;
+    border-radius: 25px;
+    border: 2px solid var(--half-pearl-lusta-bg-txt);
+    transition-property: background-color, color, border;
+    transition: 0.3s ease-in-out;
+}
+
+.portfolioActionMain a:hover {
+    background-color: white;
+    color: var(--black-btn);
+    border: 2px solid transparent;
+}
