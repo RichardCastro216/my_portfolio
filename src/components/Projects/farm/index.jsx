@@ -1,7 +1,7 @@
 import React from 'react';
 import './farm.css'
 
-import Erotic_main_image from "../../../assets/images/farm/Farm_main.png"
+import Erotic_main_image from "../../../assets/images/farm/farm_main.png"
 import Frame_24 from "../../../assets/images/farm/Frame+24.png"
 import NightPie from "../../../assets/images/farm/fabulous-pie.png"
 import Competive_imge_4 from "../../../assets/images/farm/Competive+Analysis+Comparison+Chart+(4).jpg"
