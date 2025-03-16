@@ -8,7 +8,7 @@ function Footer() {
 
     const currentYear = new Date().getFullYear();
     function year() {
-        return currentYear;
+        return currentYear-1;
     }
 
   return (
