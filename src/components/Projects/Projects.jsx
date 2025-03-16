@@ -5,7 +5,7 @@ import './Projects.css';
 
 
 // this is ES6 import syntax for importing images
-import project1 from '../../assets/images/farm/Farm_main.png';
+import project1 from '../../assets/images/farm/farm_main.png';
 import project2 from '../../assets/images/kaus/Kaus_main.png';
 import project3 from '../../assets/images/finance/Finance_main.png';
 
