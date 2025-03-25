@@ -11,7 +11,7 @@ export default defineConfig({
       '/api': {
         target: 'https://portfolio-backend-omega-jet.vercel.app',
         changeOrigin: true,
-        secure: false,
+        rewrite: (path) => path.replace(/^\/api/, '')
       }
     }
   }
