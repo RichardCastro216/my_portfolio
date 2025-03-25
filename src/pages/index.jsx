@@ -6,11 +6,13 @@ import Service from '../components/Service/Service';
 import Experience from '../components/Experience/Experience';
 import Footer from '../components/Footer/Footer';
 
-function Home() {
+function Home(props) {
   return (
     <>
-      <Header />
+      <Header signOut = {props.signOut} />
+      <div style={{height:'6px',width:'100%',backgroundColor:'white'}}></div>
       <Intro />
+      <div style={{height:'6px',width:'100%',backgroundColor:'white'}}></div>
       <Projects />
     </>
   )

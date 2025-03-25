@@ -7,7 +7,7 @@ import './Footer.css';
 function FooterLinks(props) {
   return (
     <div className="footerLinks">
-        <h2>{props.title}</h2>
+        <h2 style={{color:'white'}}>{props.title}</h2>
         <NavLink to={props.linkPath1}>
             {props.link1}
         </NavLink>

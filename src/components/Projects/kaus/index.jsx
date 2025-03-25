@@ -39,7 +39,7 @@ import IMB_gif3 from "../../../assets/images/kaus/IMB_GGcPbG.gif"
 
 function Erotic() {
   return (
-    <div className="erotic-page">
+    <div className="back_page">
       <div className='project_topic' style={{color:'white'}}>
         <h1 style={{fontFamily:'Times New Roman'}}>Kaus insurance</h1>
         <br></br>

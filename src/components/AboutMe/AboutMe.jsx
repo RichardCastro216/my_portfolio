@@ -13,13 +13,12 @@ function AboutMe() {
       <section className="aboutMe">
         <div className="aboutMain">
           <div className="aboutText">
-            <img className="aboutLeftFlower" src={flowerLeft} alt=" Orange Flower" />
             <div className="aboutContent">
-              <h3>{aboutMe[0].subTitle}</h3>
-              <h2>{aboutMe[0].title1}</h2>
-              <h2>{aboutMe[0].title2}</h2>
-              <p>{aboutMe[0].content1}</p>
-              <p>{aboutMe[0].content2}</p>
+              <h3 style={{color:'white'}}>{aboutMe[0].subTitle}</h3>
+              <h2 style={{color:'white'}}>{aboutMe[0].title1}</h2>
+              <h2 style={{color:'white'}}>{aboutMe[0].title2}</h2>
+              <p style={{color:'white'}}>{aboutMe[0].content1}</p>
+              <p style={{color:'white'}}>{aboutMe[0].content2}</p>
             </div>
           </div>
           <div className="aboutMedia">

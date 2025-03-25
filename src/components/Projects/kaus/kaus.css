@@ -1,3 +1,9 @@
+
+.back_page{
+  background-image: url('../../../assets/images/main_back.jpg');
+  width: 100%;
+  color:white
+}
 .project_topic{
   width:100%;
   text-align: center;

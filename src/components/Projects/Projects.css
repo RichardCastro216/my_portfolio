@@ -1,24 +1,24 @@
 @font-face {
     font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_bold.woff);
-    font-weight: 600;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_outline_bold.woff);
+    src: url(../../assets/fonts/Poppins-Bold.ttf);
     font-weight: bold;
     font-display: swap;
   }
   @font-face {
     font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_regular.woff);
+    src: url(../../assets/fonts/Poppins-SemiBold.ttf);
+    font-weight: bold;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Nagbuloe';
+    src: url(../../assets/fonts/Poppins-Regular.ttf);
     font-weight: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_thin.woff);
+    src: url(../../assets/fonts/Poppins-Thin.ttf);
     font-weight: 400;
     font-display: swap;
   }
@@ -32,12 +32,13 @@
   }
   
 
-
 .project {
     height: fit-content;
     width: 100%;
     padding-top: 12vh;
-    background-color: var(--black-orange-bg);
+    background-image: url('../../assets/images/main_back.jpg');
+    border-bottom:2px solid rgba(255,255,255,0.6);
+    /* background-color: var(--black-orange-bg); */
     /* padding-bottom: 20vh; */
 }
 

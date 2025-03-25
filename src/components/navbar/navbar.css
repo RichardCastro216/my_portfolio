@@ -1,27 +1,27 @@
 @font-face {
-    font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_bold.woff);
-    font-weight: bold;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_outline_bold.woff);
-    font-weight: bolder;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_regular.woff);
-    font-weight: normal;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_thin.woff);
-    font-weight: 400;
-    font-display: swap;
-  }
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/Poppins-Bold.ttf);
+  font-weight: bold;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/Poppins-SemiBold.ttf);
+  font-weight: bold;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/Poppins-Regular.ttf);
+  font-weight: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/Poppins-Thin.ttf);
+  font-weight: 400;
+  font-display: swap;
+}
   
 :root {
   --half-pearl-lusta-bg-txt: #f1e9d7;

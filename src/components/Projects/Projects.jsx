@@ -52,6 +52,7 @@ function Projects() {
               Btn={projectData[2].btnText} 
               ProjectName="finance"
              />
+             <br></br>
         </div>
       </section>
     </>

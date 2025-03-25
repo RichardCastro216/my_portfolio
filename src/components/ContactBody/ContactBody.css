@@ -10,10 +10,12 @@
 .contactBody {
     width: 100%;
     height: 100vh;
-    background-color: var(--half-pearl-lusta-bg-txt);
+    background-image: url(../../assets/images/intro_back.jpg);
+    /* background-color: var(--half-pearl-lusta-bg-txt); */
     display: flex;
     align-items: center;
     justify-content: center;
+    border-bottom: 2px solid rgba(255,255,255,0.6);
 }
 
 .contactBodyMain {

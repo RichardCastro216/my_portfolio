@@ -3,22 +3,26 @@
     height: 85vh;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    /* justify-content: space-between; */
     background-color: var(--half-pearl-lusta-bg-txt);
     padding: 4rem;
+    background-image: url('../../assets/images/intro_back.jpg');
 }
 
 .intro-content {
     width: 55%;
+    border-left:2px solid rgba(255,255,255,0.6);
     /* background-color: antiquewhite; */
 }
 
 .intro-content p {
     font-size: 2.2rem;
     line-height: 1.5;
+    margin-left: 50px;
+    text-align: left;
     font-weight: 300;
     text-transform: uppercase;
-    text-align: center;
 }
 
 .firstFlower {

@@ -18,8 +18,8 @@ function Footer() {
                 <div className="rows links">
                 
                     <div className="footerLinks">
-                        <h2>Connect</h2>
-                        <h2>with Me</h2>
+                        <h2 style={{color:'white'}}>Connect</h2>
+                        <h2 style={{color:'white'}}>with Me</h2>
                         <a href="https://www.linkedin.com/in/richard-castro-3826ab343/" target="blank">Linkedin</a>
                     </div>
                 </div>

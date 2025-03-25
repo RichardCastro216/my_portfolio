@@ -1,27 +1,27 @@
 @font-face {
-    font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_bold.woff);
-    font-weight: bold;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_outline_bold.woff);
-    font-weight: bolder;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_regular.woff);
-    font-weight: normal;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: 'Nagbuloe';
-    src: url(../../assets/fonts/nagbuloe_thin.woff);
-    font-weight: 200;
-    font-display: swap;
-  }
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/Poppins-Bold.ttf);
+  font-weight: bold;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/Poppins-SemiBold.ttf);
+  font-weight: bold;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/Poppins-Regular.ttf);
+  font-weight: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Nagbuloe';
+  src: url(../../assets/fonts/Poppins-Thin.ttf);
+  font-weight: 400;
+  font-display: swap;
+}
 
   
 :root {
@@ -33,12 +33,12 @@
 }
 
 .banner {
-    height: 230vh;
+    height: 135vh;
     width: 100%;
     padding: 1.2rem;
     padding-right: 2rem;
     background-image: url("../../assets/images/background.png");
-    background-size:cover;
+    background-size:contain;
     /* background-color: var(--half-pearl-lusta-bg-txt); */
 }
 

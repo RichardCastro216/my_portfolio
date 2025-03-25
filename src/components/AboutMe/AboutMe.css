@@ -12,9 +12,12 @@
     height: 180vh;
     width: 100%;
     /* background-color: var(--half-pearl-lusta-bg-txt); */
-    background-color: var(--half-pearl-lusta-bg-txt);
+    /* background-color: var(--half-pearl-lusta-bg-txt); */
+    
+    background-image: url(../../assets/images/main_back.jpg);
     display: flex;
     align-items: center;
+    color:white;
     justify-content: center;
 }
 

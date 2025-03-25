@@ -15,7 +15,7 @@ import CategoriesImage from "../../../assets/images/finance/Category.png"
 
 function Erotic() {
   return (
-    <div className="erotic-page">
+    <div className="back_page">
       <div className='project_topic' style={{color:'white'}}>
         <h1 style={{fontFamily:'Times New Roman'}}>Personal Finance Management</h1>
         <br></br>

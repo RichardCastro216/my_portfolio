@@ -33,7 +33,7 @@ import IMB_gif3 from "../../../assets/images/farm/IMB_ZoZFA8.gif"
 
 function Erotic() {
   return (
-    <div className="erotic-page">
+    <div className="back_page">
       <div className='project_topic' style={{color:'white'}}>
         <h1 style={{fontFamily:'Times New Roman'}}>Phoenix Farm</h1>
         <br></br>
@@ -67,7 +67,7 @@ function Erotic() {
         </div>
 
       <div className='quick_link' style={{color:'white'}}>
-        <h1 style={{fontFamily:'Times New Roman'}}>Quic Link</h1>
+        <h1 style={{fontFamily:'Times New Roman'}}>Quick Link</h1>
         <br></br>
         <br></br>
         <br></br>

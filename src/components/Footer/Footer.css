@@ -1,7 +1,7 @@
 
 :root {
     --half-pearl-lusta-bg-txt: #f1e9d7;
-    --pastel-orange-txt: #d4a665;
+    --pastel-orange-txt: white;
     --black-orange-bg: #212121;
     --black-btn: #000000;
     --dark-text: #212121;
@@ -10,7 +10,7 @@
 .footer {
     /* height: 70vh; */
     width: 100%;
-    background-color: var(--black-orange-bg);
+    background-image: url('../../assets/images/main_back.jpg');
 }
 
 .footerContainer {

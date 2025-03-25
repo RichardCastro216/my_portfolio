@@ -6,9 +6,7 @@ import AboutEnd from '../components/AboutEnd/AboutEnd';
 function About() {
   return (
     <>
-      <AboutHeader />
       <AboutMe />
-      <AboutEnd />
     </>
   )
 }

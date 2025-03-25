@@ -81,8 +81,8 @@ function ContactBody() {
         <section className="contactBody">
             <div className="contactBodyMain">
                 <div className="contactBodyContent">
-                    <h5>CONTACT ME</h5>
-                    <h2>Let's talk about <br /> your dream <br /> project</h2>
+                    <h5 style={{color:'white'}}>CONTACT ME</h5>
+                    <h2 style={{color:'white'}}>Let's talk about <br /> your dream <br /> project</h2>
                     </div>
                 <div className="contactForm">
                     <form className='submitForm' action="">
@@ -96,7 +96,7 @@ function ContactBody() {
                             <textarea ref={textAreaRef} name="" id="" placeholder="Type your message here ..." rows="4" onClick={changeBGColor} style={{backgroundColor: bgColor ? '#d4a665' : 'white' }}></textarea>
                         </div>
                         <div className="contactBtn">
-                            <button type='submit'>Submit</button>
+                            <button type='submit' style={{border:'2px solid rgba(255,255,255,0.6)'}}>Submit</button>
                         </div>
                     </form>
                 </div>

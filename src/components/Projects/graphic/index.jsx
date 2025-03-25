@@ -53,7 +53,7 @@ import LogoFinal from "../../../assets/images/graphic/5b9b1e2b6b2ea1ca13f9d1f0_4
 
 function Erotic() {
   return (
-    <div className="erotic-page" style={{backgroundColor:'#f7f6f2'}}>
+    <div className="back_page" style={{backgroundColor:'#f7f6f2'}}>
       <div className='project_topic' style={{color:'white'}}>
         <h1 style={{fontFamily:'Times New Roman', textTransform:"uppercase"}}>Past Graphic Design Work</h1>
         <br></br>
@@ -64,7 +64,7 @@ function Erotic() {
       <br></br>
       <div style={{paddingLeft:'10%', paddingRight:'10%'}}>
         <div>
-          <a href="https://www.sutherlandwelles.com/" target='blank'><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Sutherland Welles</h1></a>
+          <a href="https://www.sutherlandwelles.com/" target='blank' style={{color:'white'}}><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Sutherland Welles</h1></a>
           <br></br>
           <div style={{display:'flex', gap:'30px',flexDirection:'column'}}>
             <div style={{width:'100%',display:'flex',gap:'40px'}}>
@@ -88,7 +88,7 @@ function Erotic() {
         <br></br>
         <br></br>
         <div>
-          <a href = "https://wiserosebeauty.com/" target="blank"><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Wise Rose Beauty</h1></a>
+          <a href = "https://wiserosebeauty.com/" target="blank" style={{color:'white'}}><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Wise Rose Beauty</h1></a>
           <br></br>
           <div style={{display:'flex', gap:'30px'}}>
             <div style={{width:'35%'}}>
@@ -102,8 +102,15 @@ function Erotic() {
             </div>
           </div>
         </div>
+        <br></br>
+        <br></br>
+        <br></br>
+        <hr></hr>
+        <br></br>
+        <br></br>
+        <br></br>
         <div>
-          <a href="https://mediaplanet.com/us/" target="blank"><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Mediaplanet</h1></a>
+          <a href="https://mediaplanet.com/us/" target="blank"><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase',color:'white'}}>Mediaplanet</h1></a>
           <br></br>
           <div style={{display:'flex', gap:'30px'}}>
             <div style={{width:'22%'}}>
@@ -134,7 +141,7 @@ function Erotic() {
         <br></br>
         <br></br>
         <div>
-          <a target="blank" href="http://www.lindsaylandmanevents.com/"><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Lindsay Landman Events</h1></a>
+          <a target="blank" href="http://www.lindsaylandmanevents.com/" style={{color:'white'}}><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Lindsay Landman Events</h1></a>
           <br></br>
           <div >
             <img src={Lindsay1} style={{width:'100%'}} />
@@ -150,7 +157,7 @@ function Erotic() {
         <br></br>
         <br></br>
         <div>
-          <a target='blank' href="http://normanestatelaw.com/"><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Tailoring a Branding Solution for Norman & Norman Consulting</h1></a>
+          <a target='blank' href="http://normanestatelaw.com/" style={{color:'white'}}><h1 style={{fontFamily:'Times New Roman', textTransform:'uppercase'}}>Tailoring a Branding Solution for Norman & Norman Consulting</h1></a>
           <br></br>
           <div style={{display:'flex',gap:'10px'}}>
             <img src={Logo1} style={{width:'20%'}} />
